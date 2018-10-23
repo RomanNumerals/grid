@@ -1,2 +1,2 @@
 # grid
-something with responsive
+Just a brief work through with CSS grid
